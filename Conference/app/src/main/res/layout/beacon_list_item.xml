@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <ImageView
+        android:layout_width="@dimen/abc_action_bar_default_height_material"
+        android:layout_height="@dimen/abc_action_bar_default_height_material"
+        android:id="@+id/imgBeaconColor"
+        android:background="@color/background_floating_material_light" />
+
+    <ImageView
+        android:layout_width="@dimen/abc_action_bar_icon_vertical_padding_material"
+        android:layout_height="@dimen/abc_action_bar_default_height_material"
+        android:id="@+id/imgLabelColor" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:text="New Text"
+        android:id="@+id/tvBeaconData"
+        android:gravity="center_vertical"
+        android:textSize="18sp"
+        android:layout_marginLeft="10dip" />
+
+</LinearLayout>

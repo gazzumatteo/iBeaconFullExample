@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="blue">#00A</color>
+    <color name="light_blue">#ADF</color>
+    <color name="light_green">#AFC</color>
+
+    <color name="green">#0A0</color>
+    <color name="yellow">#EE0</color>
+    <color name="red">#F30</color>
+
+    <color name="grey">#AAA</color>
+
+    <color name="white">#FFF</color>
+    <color name="low_prob">#EEE</color>
+    <color name="low_prob_2">#DEE</color>
+    <color name="some_prob">#CFE</color>
+    <color name="good_prob">#AFC</color>
+    <color name="most_prob">#5FA</color>
+
+</resources>

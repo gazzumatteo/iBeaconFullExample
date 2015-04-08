@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">DroidCon2015 Demo</string>
+
+    <string name="title_beacon_demo">iBeacon Demo</string>
+    <string name="title_ranging">Ranging</string>
+    <string name="title_indoor">Indoor Location</string>
+    <string name="title_wayfinding">Way Finding</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="beacons_uuid">b9407f30-f5f8-466e-aff9-25556b57fe6d</string>
+    <string name="ranging_tag">Conference Ranging</string>
+    <string name="monitoring_tag">Monitoring Ranging</string>
+
+    <string name="title_welcome_notification">Welcome</string>
+    <string name="message_welcome_notification">Welcome to the DroidCon 2015 Conference!</string>
+
+    <string name="title_goodbye_notification">Goodbye</string>
+    <string name="message_goodbye_notification">Hope you enjoyed the talk!</string>
+
+    <string name="title_home">Home</string>
+    <string name="message_home">Welcome at Wayfinding Demo!\nMove on to the next step…</string>
+
+    <string name="title_questions">Mystery</string>
+    <string name="message_questions">New point activated!\nKeep moving to the next step for more info…</string>
+
+    <string name="title_info">Info</string>
+    <string name="message_info">Info Point!\nThanks to proximity levels we can activate different beacons depending on their range.</string>
+
+    <string name="title_end">Congratulations</string>
+    <string name="message_end">Congratulations, you completed the demo!\nThanks, have a nice day!</string>
+
+    <string name="button_continue">Keep going</string>
+    <string name="button_reset">Restart</string>
+
+    <string name="region_id">A Region Identifier</string>
+
+    <string name="title_bluetooth_not_supported">Bluetooth LE not supported</string>
+    <string name="message_bluetooth_not_supported">Your device does not support Bluetooth LE.\nSorry, you won\'t be able to see this demo.</string>
+    <string name="button_bluetooth_not_supported">Too bad</string>
+
+    <string name="title_bluetooth_off">Bluetooth is off</string>
+    <string name="message_bluetooth_off">The bluetooth on your device is off.\nPlease turn it on to see this demo</string>
+    <string name="button_bluetooth_off">Activate</string>
+    <string name="button_negative_bluetooth_off">Never mind</string>
+
+</resources>
